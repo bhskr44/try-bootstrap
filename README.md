@@ -4,7 +4,7 @@
 
 Learning objectives Understand the concept of CSS frameworks. Use documentation for CSS frameworks.
 
-:heavy_check_mark: First, you need to create a new repository for this exercise, and start working in a 'feature' branch :heavy_check_mark: Do not re-use your portfolio code! As you will see, using Bootstrap you will barely need to write any CSS, just use Bootstrap classes.  
+:heavy_check_mark: First, you need to create a new repository for this exercise, and start working in a 'feature' branch  :heavy_check_mark: Do not re-use your portfolio code! As you will see, using Bootstrap you will barely need to write any CSS, just use Bootstrap classes.  
 :heavy_check_mark: Install Bootstrap in your project, including both CSS and JS files.  
 :heavy_check_mark: Start prototyping the desktop version of the portfolio.  
 :heavy_check_mark: Explore all the Bootstrap components to see which ones you may need. For this exercise you don't need to personalize them to adjust to the design template. Here is a list of some components that could be useful:  
