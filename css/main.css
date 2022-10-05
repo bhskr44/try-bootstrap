@@ -40,6 +40,32 @@ body {
   border: 1px solid #6070ff;
 }
 
+.btn-secondary {
+    background-color: white;
+    color: #6070ff;
+    border: 1px solid #6070ff;
+  }
+  
+.btn-secondary:hover {
+    background-color: #6070ff;
+    color: white;
+    border: 1px solid #6070ff;
+}
+
+.btn-ternary {
+    background-color: white;
+    color: #6070ff;
+    width: 180px;
+    height: 45px;
+    border: 1px solid #6070ff;
+  }
+  
+.btn-ternary:hover {
+    background-color: #6070ff;
+    color: white;
+    border: 1px solid white;
+}
+
 .my-single-works {
   display: flex;
 }
@@ -52,3 +78,33 @@ body {
   flex-direction: row-reverse;
   justify-content: space-around;
 }
+
+.about-me {
+    border-top-right-radius: 8rem;
+    background-color: white;
+}
+
+.language img {
+    width:60px;
+    height:60px;
+}
+
+.language {
+   background-color: #f7f7f9;
+   width:85px;
+   height:100px;
+   border-radius: 8px;
+}
+
+.contact-us {
+    background-color: #6070ff;
+    border-top-left-radius: 8rem;
+    padding: 10% 30%;
+    color: white;
+    text-align: center;
+    background-image: url(../images/contact-pc-bg.svg);
+    background-position: center;
+    background-size: 100% 100%;
+   
+}
+
