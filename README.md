@@ -16,7 +16,7 @@ buttons.
 :heavy_check_mark: modals for the popup window with the project details.  
 :heavy_check_mark: Bootstrap forms components to create the contact form.  
 :heavy_check_mark: the grid system to place elements inline with others.  
-:heavy_check_mark: explore how to use Bootstrap breakpoints to adapt the website to the mobile design.  
+:heavy_check_mark: explore how to use Bootstrap breakpoints to adapt the website to the mobile design.
 
 ## Built With
 
