@@ -6,18 +6,17 @@ Learning objectives Understand the concept of CSS frameworks. Use documentation 
 
 :heavy_check_mark: First, you need to create a new repository for this exercise, and start working in a 'feature' branch :heavy_check_mark: Do not re-use your portfolio code! As you will see, using Bootstrap you will barely need to write any CSS, just use Bootstrap classes.  
 :heavy_check_mark: Install Bootstrap in your project, including both CSS and JS files.  
-:heavy_check_mark: Start prototyping the desktop version of the portfolio.
-:heavy_check_mark: Explore all the Bootstrap components to see which ones you may need. For this exercise you don't need to personalize them to adjust to the design template. Here is a list of some components that could be useful:
-navbar and nav for the header.
-scrollspy to update the active menu link when the user scrolls.
-cards for the list of portfolio projects.
-buttons.
-
-:heavy_check_mark: badges for the list of technologies.
-:heavy_check_mark: modals for the popup window with the project details.
-:heavy_check_mark: Bootstrap forms components to create the contact form.
-:heavy_check_mark: the grid system to place elements inline with others.
-:heavy_check_mark: explore how to use Bootstrap breakpoints to adapt the website to the mobile design.
+:heavy_check_mark: Start prototyping the desktop version of the portfolio.  
+:heavy_check_mark: Explore all the Bootstrap components to see which ones you may need. For this exercise you don't need to personalize them to adjust to the design template. Here is a list of some components that could be useful:  
+navbar and nav for the header.  
+scrollspy to update the active menu link when the user scrolls.  
+cards for the list of portfolio projects.  
+buttons.  
+:heavy_check_mark: badges for the list of technologies.  
+:heavy_check_mark: modals for the popup window with the project details.  
+:heavy_check_mark: Bootstrap forms components to create the contact form.  
+:heavy_check_mark: the grid system to place elements inline with others.  
+:heavy_check_mark: explore how to use Bootstrap breakpoints to adapt the website to the mobile design.  
 
 ## Built With
 
