@@ -1,0 +1,109 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #f7f7f9;
+  padding: 0;
+  margin: 0;
+}
+
+.background {
+  background-color: white;
+  background-image: url(../images/background.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  border-bottom-left-radius: 8rem;
+}
+
+.work-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.bg-blue-200 {
+  background-color: #ebebff;
+}
+
+.btn-primary {
+  background-color: #6070ff;
+  color: #fff;
+  border: 1px solid #6070ff;
+}
+
+.btn-primary:hover {
+  background-color: white;
+  color: #6070ff;
+  border: 1px solid #6070ff;
+}
+
+.btn-secondary {
+  background-color: white;
+  color: #6070ff;
+  border: 1px solid #6070ff;
+}
+
+.btn-secondary:hover {
+  background-color: #6070ff;
+  color: white;
+  border: 1px solid #6070ff;
+}
+
+.btn-ternary {
+  background-color: white;
+  color: #6070ff;
+  width: 180px;
+  height: 45px;
+  border: 1px solid #6070ff;
+}
+
+.btn-ternary:hover {
+  background-color: #6070ff;
+  color: white;
+  border: 1px solid white;
+}
+
+.my-single-works {
+  display: flex;
+}
+
+.my-single-works:nth-child(2n) {
+  flex-direction: row-reverse;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+}
+
+.about-me {
+  border-top-right-radius: 8rem;
+  background-color: white;
+}
+
+.language img {
+  width: 60px;
+  height: 60px;
+}
+
+.language {
+  background-color: #f7f7f9;
+  width: 85px;
+  height: 100px;
+  border-radius: 8px;
+}
+
+.contact-us {
+  background-color: #6070ff;
+  border-top-left-radius: 8rem;
+  padding: 10% 30%;
+  color: white;
+  text-align: center;
+  background-image: url(../images/contact-pc-bg.svg);
+  background-position: center;
+  background-size: 100% 100%;
+}
